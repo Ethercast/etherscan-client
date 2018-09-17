@@ -50,8 +50,14 @@
   "engines": {
     "node": ">=8.9"
   },
-  "dependencies": {},
+  "dependencies": {
+    "cross-fetch": "^2.2.2",
+    "joi": "^13.6.0",
+    "qs": "^6.5.2"
+  },
   "devDependencies": {
+    "@types/joi": "^13.4.5",
+    "@types/qs": "^6.5.1",
     "ava": "1.0.0-beta.7",
     "codecov": "^3.0.2",
     "cz-conventional-changelog": "^2.1.0",

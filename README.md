@@ -1,3 +1,3 @@
 # @ethercast/etherscan-client
 
-client for the Etherscan API
+TypeScript client for the Etherscan API
